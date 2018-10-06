@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#30309f</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="actionButton">#F57c00</color>
-    <color name="numberButton">#455A64</color>
-    <color name="edittextcolor">#ffffff</color>
-</resources>
